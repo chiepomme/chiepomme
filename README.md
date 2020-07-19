@@ -1,4 +1,3 @@
-# TLDR
 chiepomme(she/her) is a professional VR/AR Engineer, Unity Engineer, Game Creator and Musician in Japan.
 
 # Personal Works
