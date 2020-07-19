@@ -1,16 +1,36 @@
-### Hi there 👋
+# TLDR
+chiepomme(she/her) is a professional VR/AR Engineer, Unity Engineer, Game Creator and Musician in Japan.
 
-<!--
-**chiepomme/chiepomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Personal Works
+## Game
+- [Happy Oshare Time](https://store.steampowered.com/app/1127130/)
 
-Here are some ideas to get you started:
+## Music
+- [TuneCore](https://www.tunecore.co.jp/artist/chiepomme)
+- [bandcamp](https://chiepomme.bandcamp.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Articles
+- [GitBook](https://chiepomme.gitbook.io/chiepomme/)
+
+# Social Media
+- [twitter](https://twitter.com/chiepomme)
+
+# Career
+- Hashilus Co, Ltd. 2017-2020 : VR Engineer (Unity)
+- Aiming inc. 2012-2017 : Mobile Game Engineer (Unity)
+
+# Skills
+## Experienced in work
+- C#
+- Unity
+- Multiplayer Game (Networking)
+- Web API (Ruby on Rails)
+- Agile Development (Scrum)
+
+## Hobby
+- Rust (learning)
+- Terraform
+
+# Languages
+- Japanese: Native
+- English: Conversational
